@@ -15,8 +15,6 @@
     
     }    
     
-  
-    
 }
 
 
@@ -65,23 +63,6 @@ nav a {
 
 }
 
-/******************************************LESS THAN 676***************************************************/
-@media screen and (max-width: 676px) {
-    
-p {
-        font-size: 15px;
-    } 
-    
-.up {
-        
-        padding: 10px;
-        margin-top: -200px
-    }
-.smalltext {
-     font-size: 18px;   
-     width: 400px;
-    }
-}
 
 /******************************************LESS THAN 798***************************************************/
 @media screen and (max-width: 798px) {
@@ -99,75 +80,8 @@ p {
 p {
         width: 400px;
     } 
+}
     
-.up {
-    line-height: 20px;
-    }
-}
-
-h2 {
-    padding: 10px;
-}
-
-.down {
-    font-size: 20px;
-}
-
-.down2 {
-    font-size: 20px;
-}
-
-h4 {
-    font-size: 20px;
-}
-
-/******************************************LESS THAN 556***************************************************/
-@media screen and (max-width: 556px) {
-    
-.smalltext {
-        width: 350px;
-    }
-    
-.center img {
-        padding: 50px;
-        margin-left: auto;
-    margin-right: auto;
-    }
-    
-.center {
-    margin-left: 75px;
-    }
-    
-}
-
-/******************************************LESS THAN 539***************************************************/
-@media screen and (max-width: 500px) {
-    
-.up {
-      width: 250px;  
-    }  
-.smalltext {
-      margin-right: 90px; 
-     padding-top: 20px;
-    }
-nav {
-      margin-left: 100px;
-      margin-right: 100px;
-    }    
-.width {
-       width: 80px;
-       height: 40px;
-    }
-nav a {
-      font-size: 16px;
-    }
-p {
-    width: 300px;
-    }    
-.down {
-       margin-top: 175px; 
-    }
-}
 
 /******************************************LESS THAN 700***************************************************/
 @media screen and (max-width: 700px) {
@@ -177,12 +91,15 @@ p {
     }
     
 .up {
-     margin-top: 20px;
-    width: 100%;
-    padding: 20px;
-    margin-left: -10px;
+    margin-top: 20px;
+    width: 75%;
+    padding: 50px;
+    }
+    .space {
+        width: 75%;
     }
 }
+
 
 /******************************************LESS THAN 650***************************************************/
 @media screen and (max-width: 650px) {
@@ -213,42 +130,9 @@ nav a {
         font-size: 16px;
         line-height: 24px;
     }
-}
-/******************************************LESS THAN 650***************************************************/
-@media screen and (max-width: 415px) {
     
-nav  {
-    
-        margin-left: 30px;
-        margin-right: 0;
-        padding: 0;
-        display: flex;
-    
-    }  
-    
-.width {
-        width: 75px;
-        margin-left: 0px;
-        margin-right: 0;
-    
-    
- 
+.down {
+    margin-top: 65px;
         
-    }
-    
-nav a {
-        font-size: 15px;
-    
-    }
-
-.smallhead {
-        font-size: 20px;
-        padding: 20px;
-    }
-    
-.smalltext {
-        margin-left: -100px;
-        font-size: 16px;
-        line-height: 24px;
     }
 }
