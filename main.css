@@ -64,7 +64,10 @@ color:white;
 
 /***********************************************BODY******************************************************************/
 
+article {
+    padding-bottom: 50px;
 
+}
 .flex {
     display: flex;
     justify-content: center;
@@ -175,6 +178,10 @@ h2:hover {
     width: 500px;
 }
 
+.spacingissue {
+    margin-top: -85px;
+}
+
 /**********************************************PORTFOLIO******************************************************************/
 
 .container {
@@ -195,6 +202,11 @@ h2:hover {
   opacity: 0;
   transition: .5s ease;
   background-color: rgba(80,72,85,.66);
+}
+
+.bigger {
+    font-size: 40px;
+    padding-left: 50px;
 }
 
 /*

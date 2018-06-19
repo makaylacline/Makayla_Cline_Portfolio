@@ -24,7 +24,10 @@
 @media screen and (min-width: 857px) {
 .smalltext {
     padding-top: 50px;
-    }    
+    } 
+    .bigger {
+        padding-left: 350px;
+    }
     
 }
 
