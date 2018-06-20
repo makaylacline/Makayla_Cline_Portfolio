@@ -84,7 +84,7 @@ p {
     
 
 /******************************************LESS THAN 700***************************************************/
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1242px) {
     
 .flex {
         display: none;
