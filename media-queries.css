@@ -106,14 +106,14 @@ p {
 @media screen and (max-width: 750px) {
     
 nav  {
-        margin-left: 0;
-        margin-right: 0;
+        margin-left: auto;
+        margin-right: auto;
         padding: 0;
     }  
     
 .width {
         width: 400px;
-        margin-left: 0;
+        margin-left: -20px;
         margin-right: 0;
     }
     
