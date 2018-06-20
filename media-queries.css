@@ -132,5 +132,29 @@ nav a {
     text-align: center;
     padding-left: 0;
     }
+    
+.spacingissue {
+    justify-content: center;
+    }
 
+}
+/******************************************LESS THAN 650***************************************************/
+@media screen and (max-width: 475px) {
+    
+    nav  {
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0;
+        justify-content: center;
+        flex: auto;
+    }  
+    
+.width {
+        width: 400px;
+        margin-left: -20px;
+        margin-right: 0;
+        text-align: center;
+        justify-content: center;
+        flex: auto;
+    }
 }
