@@ -86,7 +86,7 @@ p {
 
 
 /******************************************LESS THAN 650***************************************************/
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1080px) {
     
 nav  {
         margin-left: auto;
@@ -137,24 +137,4 @@ nav a {
     justify-content: center;
     }
 
-}
-/******************************************LESS THAN 650***************************************************/
-@media screen and (max-width: 475px) {
-    
-    nav  {
-        margin-left: auto;
-        margin-right: auto;
-        padding: 0;
-        justify-content: center;
-        flex: auto;
-    }  
-    
-.width {
-        width: 400px;
-        margin-left: -20px;
-        margin-right: 0;
-        text-align: center;
-        justify-content: center;
-        flex: auto;
-    }
 }
