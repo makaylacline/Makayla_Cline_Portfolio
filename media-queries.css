@@ -89,9 +89,7 @@ p {
 /******************************************LESS THAN 700***************************************************/
 @media screen and (max-width: 1242px) {
     
-.flex {
-        display: none;
-    }
+
     
 .up {
     margin-top: 20px;

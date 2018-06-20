@@ -71,9 +71,8 @@ article {
 .flex {
     display: flex;
     justify-content: center;
-    width: 100%;
+    width: 50%;
     height: 100%;
-    opacity: 0.66;
 }
 
 p {
