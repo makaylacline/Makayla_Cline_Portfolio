@@ -102,7 +102,7 @@ p {
 
 
 /******************************************LESS THAN 650***************************************************/
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 1242px) {
     
 nav  {
         margin-left: 0;
