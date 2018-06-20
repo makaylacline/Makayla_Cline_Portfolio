@@ -80,8 +80,8 @@ nav a {
 @media screen and (max-width: 591px) {
     
 p {
-        width: 100%;
-        height: 100%;
+        width: 400px;
+        height: auto;
     } 
 }
     
@@ -96,7 +96,7 @@ p {
     width: 75%;
     padding: 50px;
     }
-    .space {
+.space {
         width: 75%;
     }
 }
@@ -112,7 +112,7 @@ nav  {
     }  
     
 .width {
-        width: 75px;
+        width: 400px;
         margin-left: 0;
         margin-right: 0;
     }
