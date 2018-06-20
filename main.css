@@ -96,7 +96,8 @@ p {
     margin-top: -330px;
     background-color:rgba(80,72,85,.66);
     position:relative;
-    padding: 30px 75px;
+    width: 800px;
+
 }
 
 .move {

@@ -135,4 +135,11 @@ nav a {
     margin-top: 65px;
         
     }
+    
+    p {
+        width: 100%;
+        }
+    .bigger {
+        width: 100%;
+    }
 }
