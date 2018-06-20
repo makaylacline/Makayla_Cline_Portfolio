@@ -29,6 +29,10 @@
         padding-left:0;
         text-align: center;
     }
+    .hide {
+        display: none;
+        
+    }
     
 }
 
@@ -136,6 +140,15 @@ nav a {
 .spacingissue {
     justify-content: center;
     }
+    
+.hide {
+        width: 3px;
+        margin-top: -200px;
+        text-align: right;
+        margin-left: 240px;
+        line-height: 28px;
+    
+      }
 
 
 }
