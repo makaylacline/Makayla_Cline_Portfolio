@@ -86,18 +86,21 @@ p {
 
 
 /******************************************LESS THAN 650***************************************************/
-@media screen and (max-width: 751px) {
+@media screen and (max-width: 800px) {
     
 nav  {
         margin-left: auto;
         margin-right: auto;
         padding: 0;
+        justify-content: center;
     }  
     
 .width {
         width: 400px;
         margin-left: -20px;
         margin-right: 0;
+        text-align: center;
+        justify-content: center;
     }
     
 nav a {
