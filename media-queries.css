@@ -54,7 +54,7 @@ nav a {
 @media screen and (max-width: 808px) {
     
  p {
-        font-size: 20px;
+        font-size: 24px;
     }
     
 .up {
@@ -80,7 +80,7 @@ nav a {
 @media screen and (max-width: 591px) {
     
 p {
-        width: 400px;
+        width: 100%;
     } 
 }
     
