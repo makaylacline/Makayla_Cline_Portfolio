@@ -1,9 +1,11 @@
 /******************************************MORE THAN 1330***************************************************/
 
-@media screen and (min-width: 1330px) {
+@media screen and (min-width: 1243px) {
     
 .up {
     margin-top: -400px;
+    padding: 20px;
+    width: 50%;
     }  
     
 .container {
@@ -136,10 +138,4 @@ nav a {
         
     }
     
-    p {
-        width: 100%;
-        }
-    .bigger {
-        width: 100%;
-    }
 }
