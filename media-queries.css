@@ -110,10 +110,11 @@ nav a {
     }
     
 .smalltext {
-        margin-left: -100px;
-        font-size: 16px;
-        line-height: 24px;
-    }
+       font-size: 16px;
+       justify-content: center;
+       width: 50%;
+    
+        }
     
 .down {
     margin-top: 65px;
@@ -128,4 +129,5 @@ nav a {
     text-align: center;
     padding-left: 0;
     }
+
 }
