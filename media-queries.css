@@ -147,8 +147,11 @@ nav a {
         text-align: right;
         margin-left: 240px;
         line-height: 28px;
+    }
     
-      }
+    .sizing {
+        width: 95%;
+    }
 
 
 }
